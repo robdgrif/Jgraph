@@ -1,0 +1,84 @@
+newgraph
+
+xaxis size 4
+	min -20 max 20
+
+yaxis size 2
+	min 0 max 10 nodraw draw_at 0
+
+legend custom
+
+newcurve marktype box marksize 1 1.7
+    cfill 0 0 0
+label hjl vjb x -20 y 18.5 : Sum of Player
+    pts 10.344 10  6.344 8  6.344 6  4.344 4  2.344 2  
+
+newcurve marktype ybar cfill .29 .3 .31
+
+	marksize 1 1
+
+label hjl vjb x -20 y 16.5 : Tee to green, Positive
+	pts
+	 10.344 10  7.935 8  4.635 2  
+
+newcurve marktype ybar cfill .8 .8 .81
+
+    marksize 1 1
+
+label hjl vjb x 10 y 16.5 : Tee to green, Negative
+    pts
+    -1.433 6  -1.838 4  
+
+newcurve marktype ybar cfill 0 0 1
+
+    marksize 1 1
+
+label hjl vjb x -20 y 15 : Approach the green, Positive
+    pts
+    4.525 10  7.777 6  
+
+newcurve marktype ybar cfill .5 .5 1
+
+    marksize 1 1
+
+label hjl vjb x 10 y 15 : Approach the green, Negative
+    pts
+    -1.591 8  -0.851 4  -2.291 2  
+
+newcurve marktype ybar cfill 1 0 0
+
+    marksize 1 1
+
+label hjl vjb x -20 y 13.5 : Around the green, Positive
+    pts
+    4.496 10  3.653 8  2.381 6  6.182 4  
+
+newcurve marktype ybar cfill 1 .5 .5
+
+    marksize 1 1
+
+label hjl vjb x 10 y 13.5 : Around the green, Negative
+    pts
+    -1.088 2  
+
+newcurve marktype ybar cfill 0 .5 0
+
+    marksize 1 1
+
+label hjl vjb x -20 y 12 : Putting, Positive
+    pts
+    2.993 10  1.211 8  0.434 6  5.116 4  3.243 2  
+
+newcurve marktype ybar cfill .5 1 .5
+
+    marksize 1 1
+
+label hjl vjb x 10 y 12 : Putting, Negative
+    pts
+    
+
+newstring hjl vjc x 13 y 10 : Rory Mcilroy
+newstring hjl vjc x 10 y 8 : Taylor Pendrith
+newstring hjl vjc x 10 y 6 : Erik Rooyen
+newstring hjl vjc x 9 y 4 : Lucas Herbert
+newstring hjl vjc x 7 y 2 : Adam Scott

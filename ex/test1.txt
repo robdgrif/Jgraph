@@ -1,0 +1,32 @@
+SG: Off-The-Tee
+
+Lee Westwood			3.371
+Bryson DeChambeau		5.328
+Zach Johnson			-1.008
+Matthew Wolff			3.177
+Shugo Imahira			-4.813
+
+SG: Approach-The-Green
+
+Lee Westwood		    1.847
+Bryson DeChambeau		7.551
+Zach Johnson			0.532
+Matthew Wolff		    7.115
+Shugo Imahira			3.441
+
+SG: Around-The-Green
+
+Lee Westwood			2.646
+Bryson DeChambeau		4.973
+Zach Johnson			1.207
+Matthew Wolff			3.480
+Shugo Imahira			-1.995
+
+SG: Putting
+
+Lee Westwood			1.480
+Bryson DeChambeau		4.492
+Zach Johnson			9.613
+Matthew Wolff			2.572
+Shugo Imahira			-5.289
+

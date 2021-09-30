@@ -1,0 +1,31 @@
+SG: Off-The-Tee
+
+Rory Mcilroy		5.819
+Lucas Herbert		-0.987
+Adam Scott			1.392
+Erik Rooyen			-1.433
+Taylor Pendrith		4.282
+
+SG: Approach-The-Green
+
+Adam Scott			-1.203
+Erik Rooyen			5.396
+Rory Mcilroy		0.029
+Lucas Herbert		-0.851
+Taylor Pendrith		-1.591
+
+SG: Around-The-Green
+
+Erik Rooyen			1.947
+Adam Scott			-1.088
+Rory Mcilroy		1.503
+Lucas Herbert		1.066
+Taylor Pendrith		2.442
+
+SG: Putting
+
+Adam Scott			3.243
+Rory Mcilroy		2.993
+Lucas Herbert		5.116
+Erik Rooyen			0.434
+Taylor Pendrith		1.211

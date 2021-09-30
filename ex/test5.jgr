@@ -1,0 +1,254 @@
+newgraph
+
+xaxis size 4
+	min -20 max 20
+
+yaxis size 2
+	min 0 max 10 nodraw draw_at 0
+
+legend custom
+
+newcurve marktype box marksize 1 1.7
+    cfill 0 0 0
+label hjl vjb x -20 y 18.5 : Sum of Player
+    pts 13.5665 10  10.93 8  8.428 6  8.392 4  7.944 2  
+
+newcurve marktype ybar cfill .29 .3 .31
+
+	marksize 1 1
+
+label hjl vjb x -20 y 16.5 : Tee to green, Positive
+	pts
+	 13.5665 10  10.93 8  10.77 6  12.148 2  
+
+newcurve marktype ybar cfill .8 .8 .81
+
+    marksize 1 1
+
+label hjl vjb x 10 y 16.5 : Tee to green, Negative
+    pts
+    -0.987 4  
+
+newcurve marktype ybar cfill 0 0 1
+
+    marksize 1 1
+
+label hjl vjb x -20 y 15 : Approach the green, Positive
+    pts
+    12.385 10  6.648 8  8.18 6  9.379 4  9.235 2  
+
+newcurve marktype ybar cfill .5 .5 1
+
+    marksize 1 1
+
+label hjl vjb x 10 y 15 : Approach the green, Negative
+    pts
+    
+
+newcurve marktype ybar cfill 1 0 0
+
+    marksize 1 1
+
+label hjl vjb x -20 y 13.5 : Around the green, Positive
+    pts
+    5.08 10  6.619 8  2.791 6  4.701 4  2.246 2  
+
+newcurve marktype ybar cfill 1 .5 .5
+
+    marksize 1 1
+
+label hjl vjb x 10 y 13.5 : Around the green, Negative
+    pts
+    
+
+newcurve marktype ybar cfill 0 .5 0
+
+    marksize 1 1
+
+label hjl vjb x -20 y 12 : Putting, Positive
+    pts
+    3.064 10  5.116 8  3.243 4  
+
+newcurve marktype ybar cfill .5 1 .5
+
+    marksize 1 1
+
+label hjl vjb x 10 y 12 : Putting, Negative
+    pts
+    -2.342 6  -4.204 2  
+
+newstring hjl vjc x 16 y 10 : Dustin Johnson
+newstring hjl vjc x 13 y 8 : Taylor Pendrith
+newstring hjl vjc x 13 y 6 : Tony Finau
+newstring hjl vjc x 12 y 4 : Lucas Herbert
+newstring hjl vjc x 15 y 2 : Thomas Pieters
+newpage
+newgraph
+
+xaxis size 4
+	min -20 max 20
+
+yaxis size 2
+	min 0 max 10 nodraw draw_at 0
+
+legend custom
+
+newcurve marktype box marksize 1 1.7
+    cfill 0 0 0
+label hjl vjb x -20 y 18.5 : Sum of Player
+    pts 7.355 10  7.083 8  5.868 6  1.859 4  0.773 2  
+
+newcurve marktype ybar cfill .29 .3 .31
+
+	marksize 1 1
+
+label hjl vjb x -20 y 16.5 : Tee to green, Positive
+	pts
+	 8.675 10  11.33 8  3.339 4  3.974 2  
+
+newcurve marktype ybar cfill .8 .8 .81
+
+    marksize 1 1
+
+label hjl vjb x 10 y 16.5 : Tee to green, Negative
+    pts
+    -2.521 6  
+
+newcurve marktype ybar cfill 0 0 1
+
+    marksize 1 1
+
+label hjl vjb x -20 y 15 : Approach the green, Positive
+    pts
+    8.731 8  8.389 6  
+
+newcurve marktype ybar cfill .5 .5 1
+
+    marksize 1 1
+
+label hjl vjb x 10 y 15 : Approach the green, Negative
+    pts
+    -1.32 10  -1.48 4  -3.201 2  
+
+newcurve marktype ybar cfill 1 0 0
+
+    marksize 1 1
+
+label hjl vjb x -20 y 13.5 : Around the green, Positive
+    pts
+    8.471 10  1.18 8  1.947 4  
+
+newcurve marktype ybar cfill 1 .5 .5
+
+    marksize 1 1
+
+label hjl vjb x 10 y 13.5 : Around the green, Negative
+    pts
+    -1.088 6  -0.062 2  
+
+newcurve marktype ybar cfill 0 .5 0
+
+    marksize 1 1
+
+label hjl vjb x -20 y 12 : Putting, Positive
+    pts
+    3.741 10  2.993 6  0.388 2  
+
+newcurve marktype ybar cfill .5 1 .5
+
+    marksize 1 1
+
+label hjl vjb x 10 y 12 : Putting, Negative
+    pts
+    -4.247 8  -0.277 4  
+
+newstring hjl vjc x 11 y 10 : Billy Horschel
+newstring hjl vjc x 14 y 8 : Paul Casey
+newstring hjl vjc x 11 y 6 : Erik Rooyen
+newstring hjl vjc x 6 y 4 : Adam Scott
+newstring hjl vjc x 6 y 2 : Hideki Matrsuyama
+newpage
+newgraph
+
+xaxis size 4
+	min -20 max 20
+
+yaxis size 2
+	min 0 max 10 nodraw draw_at 0
+
+legend custom
+
+newcurve marktype box marksize 1 1.7
+    cfill 0 0 0
+label hjl vjb x -20 y 18.5 : Sum of Player
+    pts 0.251 10  -1.604 8  -1.656 6  -2.95 4  -3.123 2  
+
+newcurve marktype ybar cfill .29 .3 .31
+
+	marksize 1 1
+
+label hjl vjb x -20 y 16.5 : Tee to green, Positive
+	pts
+	 2.343 6  5.819 4  
+
+newcurve marktype ybar cfill .8 .8 .81
+
+    marksize 1 1
+
+label hjl vjb x 10 y 16.5 : Tee to green, Negative
+    pts
+    -3.402 10  -2.671 8  -4.623 2  
+
+newcurve marktype ybar cfill 0 0 1
+
+    marksize 1 1
+
+label hjl vjb x -20 y 15 : Approach the green, Positive
+    pts
+    1.244 6  
+
+newcurve marktype ybar cfill .5 .5 1
+
+    marksize 1 1
+
+label hjl vjb x 10 y 15 : Approach the green, Negative
+    pts
+    -1.591 10  -1.026 8  -8.769 4  -0.851 2  
+
+newcurve marktype ybar cfill 1 0 0
+
+    marksize 1 1
+
+label hjl vjb x -20 y 13.5 : Around the green, Positive
+    pts
+    3.653 10  1.067 8  1.5 2  
+
+newcurve marktype ybar cfill 1 .5 .5
+
+    marksize 1 1
+
+label hjl vjb x 10 y 13.5 : Around the green, Negative
+    pts
+    -3.999 6  -7.23 4  
+
+newcurve marktype ybar cfill 0 .5 0
+
+    marksize 1 1
+
+label hjl vjb x -20 y 12 : Putting, Positive
+    pts
+    1.211 10  0.137 8  0.434 2  
+
+newcurve marktype ybar cfill .5 1 .5
+
+    marksize 1 1
+
+label hjl vjb x 10 y 12 : Putting, Negative
+    pts
+    -3.725 6  -1.475 4  
+
+newstring hjl vjc x 6 y 10 : Ryo Ishikawa
+newstring hjl vjc x 4 y 8 : Troy Merritt
+newstring hjl vjc x 5 y 6 : John Pak
+newstring hjl vjc x 8 y 4 : Rory Mcilroy
+newstring hjl vjc x 4 y 2 : Christian Bezuidenhout

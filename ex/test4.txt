@@ -1,0 +1,60 @@
+SG: Off-The-Tee
+
+Tony Finau				2.590
+Thomas Pieters			2.913
+Hideki Matrsuyama		3.586
+Paul Casey				2.599
+Dustin Johnson			1.1815
+Troy Merritt			-1.645
+Billy Horschel			0.204
+Rory Mcilroy			5.819
+Lucas Herbert			-0.987
+Adam Scott				1.392
+Erik Rooyen				-1.433
+Taylor Pendrith			4.282
+
+SG: Approach-The-Green
+
+Dustin Johnson			7.551
+Hideki Matrsuyama		6.989
+Thomas Pieters			5.389
+Tony Finau				7.305
+Troy Merritt			-1.320
+Billy Horschel			-1.539
+Paul Casey				4.678
+Adam Scott				-1.203
+Erik Rooyen				5.396
+Rory Mcilroy			0.029
+Lucas Herbert			-0.851
+Taylor Pendrith			-1.591
+
+SG: Around-The-Green
+
+Thomas Pieters			2.246
+Dustin Johnson			1.180
+Tony Finau				2.791
+Billy Horschel			-0.062
+Hideki Matrsuyama		2.016
+Paul Casey				0.930
+Troy Merritt			-5.755
+Erik Rooyen				1.947
+Adam Scott				-1.088
+Rory Mcilroy			1.503
+Lucas Herbert			1.066
+Taylor Pendrith			2.442
+
+SG: Putting
+
+Tony Finau				-2.342
+Dustin Johnson			0.388
+Hideki Matrsuyama		-4.247
+Thomas Pieters			-4.204
+Troy Merritt			3.064
+Paul Casey				0.137
+Billy Horschel			3.741
+Adam Scott				3.243
+Rory Mcilroy			2.993
+Lucas Herbert			5.116
+Erik Rooyen				0.434
+Taylor Pendrith			1.211
+
