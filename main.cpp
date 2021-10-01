@@ -518,9 +518,8 @@ void createjgr(vector<Type> type, vector<double> sum, string file){
 	}
 	//./jj -P test4.jgr | ps2pdf - | convert -density 300 - -quality 100 test4.jpg 
 	//cout << file << "\n";
-	string cmd = "./jj -P " + file + ".jgr | ps2pdf - | convert -density 300 - -quality 100 " + file + ".jpg";
-	cout << cmd << "\n";
-	cout << system(cmd.c_str()) << "\n";
+	//string cmd = "./jj -P " + file + ".jgr | ps2pdf - | convert -density 300 - -quality 100 " + file + ".jpg";
+	//system(cmd);
 }
 
 int main(int argc, char *argv[]){
